@@ -1,0 +1,6 @@
+This is line 1
+12345
+Another line with text and numbers: 5678
+Appending a new line
+7890
+One more line added in append mode
