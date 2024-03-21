@@ -16,7 +16,7 @@ To run the script:
 2. Download the `file_handling_assignment.py` script.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the script.
-5. Run the script using the command:
+5. Run the script using the command: `python file_handling_assignment.py`
 
 
 ## Files
