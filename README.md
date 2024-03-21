@@ -30,6 +30,7 @@ This script does not have any external dependencies beyond the Python standard l
 This script was authored by Osborn Nyakaru.
 
 ## License
-This script is released under the MIT license. See the LICENSE file for details.
+This script is released under the MIT license. See the LICENSE file for details. [MIT License](https://opensource.org/licenses/MIT)
+
 
 
